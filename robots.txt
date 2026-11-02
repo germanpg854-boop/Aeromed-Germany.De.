@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://germanpg854.github.io/sitemap.xml
